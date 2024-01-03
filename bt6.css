@@ -1,0 +1,66 @@
+div{
+    position: relative;
+    left: 50px;
+    display: flex;
+    position: relative;
+    flex-direction: column;
+    width: 200px;
+    align-items: center;
+
+}
+.hi{
+    width: 200px;
+    height: 30hx;
+    position: absolute;
+    color: aliceblue;
+    top: 100px;
+    
+}
+input{
+    border-radius: 8px;
+}
+input:hover{
+    border-radius: blue;
+}
+h2{
+    left: 40px;
+    position: relative;
+    top: 20px;
+
+}
+p{
+    position: relative;
+    right: 60px;
+}
+.hu{
+    position: relative;
+    top: 30px;
+    left: 2px;
+}
+.ho{
+    width: 200px;
+    height: 30hx;
+    position: absolute;
+    color: aliceblue;
+    top:260px ;
+
+}
+.ha{
+    width: 200px;
+    height: 30hx;
+    position: absolute;
+    color: aliceblue;
+    top:180px ;
+
+}
+img{
+    position: relative;
+    width: 30px;
+    right: 5px;
+    top: 5px;
+}
+.ma{
+    position: relative;
+    top: 160px;
+    left: 40px;
+}

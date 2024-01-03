@@ -1,0 +1,32 @@
+main{
+    width: 100vh;
+    align-items: center;
+    justify-content: space-evenly;
+    display: flex;
+}
+input{
+    height: 30px;
+    width: 200px;
+    padding-left: 10px;
+    border-radius: 10px;
+}
+div{
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    height: 40vh;
+    gap: 10px;
+    right: 150px;
+}
+textarea{
+    height: 31vh;
+    width: 40vh;
+    position: relative;
+    left: 100px;
+    bottom: 250px;
+}
+.hi{
+    position: absolute;
+    bottom: 240px;
+    left: 300px;
+}

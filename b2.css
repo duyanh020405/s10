@@ -1,0 +1,16 @@
+.header{
+    gap: 10px;
+    background-color: aqua;
+    width: 80%;
+    height: 56px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.tron{
+        background-color: rgb(185, 19, 19);
+        clip-path: circle(50%);
+        height: 50px;
+        width: 50px;
+
+}

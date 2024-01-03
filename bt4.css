@@ -1,0 +1,37 @@
+.menu{
+   flex-direction: column;
+   
+   background-color: aqua;
+   width: 200px;
+   height: 600px;
+   
+}
+img{
+   clip-path: circle(50%);
+   width: 50px;
+}
+div{
+   flex-direction: column;
+   display: flex;
+   gap: 0px;
+   height: 50px;
+   width: 100px;
+   background-color: aqua;
+   gap: 4px;
+}
+.item {
+   height: 100px;
+   width: 200px;
+}
+p{
+   position: relative;
+   bottom: 60px;
+   left: 60px;
+}
+div:hover{
+   background-color: gray;
+   height: 70px;
+   width: 200px;
+
+
+}

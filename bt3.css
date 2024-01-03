@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.flex-container {
+    display: flex;
+    flex-direction:column;
+   
+}
+
+.item {
+    height: 30px;
+    width: 30px;
+}
+
+.item-1 {
+    background-color: blue;
+}
+.item-2 {
+    background-color: red;
+}
+.item-3 {
+    background-color: yellow;
+}
+.i{
+    position: relative;
+    left: 30px;
+    bottom: 300px;
+    flex-direction: column-reverse;
+}
+.k{
+    flex-direction: row-reverse;
+    display:flex;
+    justify-content: center;
+}
+.l{
+    position: relative;
+    right: 465px;
+    bottom: 450px;
+
+}
+.m{
+    position: relative;
+    right: 465px;
+    bottom: 500px;
+}
